@@ -6,6 +6,7 @@ import org.apache.jasper.runtime.*;
 public class AdminMenu_jsp extends HttpJspBase {
 
 //comit1
+  //comit2
 //
 //   Filename: Common.jsp
 //   Generated with CodeCharge  v.1.2.0
