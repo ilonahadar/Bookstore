@@ -8,6 +8,7 @@ public class AdminBooks_jsp extends HttpJspBase {
 //   Generated with CodeCharge  v.1.2.0
 //   JSP.ccp build 05/21/2001
 //
+  //comit1
 
   static final String CRLF = "\r\n";
 
